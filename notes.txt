@@ -1,0 +1,3 @@
+1.composer dump-autoload : command used to reset autoload_psr4.php file
+2.In Composser.json file we used "Inc" as Sureshot for "Include" folder.
+3.psr-4 : used to define PATH for autoloading files from specific folder.
